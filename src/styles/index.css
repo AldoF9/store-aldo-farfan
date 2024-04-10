@@ -1,0 +1,11 @@
+html,
+body {
+  height: 100%;
+}
+
+body {
+  background: transparent linear-gradient(195deg, #F7E2D8 0%, #F79160 100%) 0% 0% no-repeat padding-box;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
